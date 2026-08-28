@@ -1,6 +1,6 @@
 # n8nPractice
-n8n practice
+تمرین n8n
 lotfi cpp
 
-## About This Exercise
-This repository is used for practicing an n8n GitHub coding agent.
+## دربارهٔ این تمرین
+این مخزن برای تمرین عامل کدنویسی n8n در GitHub استفاده می‌شود.
